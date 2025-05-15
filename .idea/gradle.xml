@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$USER_HOME$/programming/media/libraries/cast" />
+            <option value="$USER_HOME$/programming/media/libraries/common" />
+            <option value="$USER_HOME$/programming/media/libraries/common_ktx" />
+            <option value="$USER_HOME$/programming/media/libraries/container" />
+            <option value="$USER_HOME$/programming/media/libraries/database" />
+            <option value="$USER_HOME$/programming/media/libraries/datasource" />
+            <option value="$USER_HOME$/programming/media/libraries/datasource_cronet" />
+            <option value="$USER_HOME$/programming/media/libraries/datasource_httpengine" />
+            <option value="$USER_HOME$/programming/media/libraries/datasource_okhttp" />
+            <option value="$USER_HOME$/programming/media/libraries/datasource_rtmp" />
+            <option value="$USER_HOME$/programming/media/libraries/decoder" />
+            <option value="$USER_HOME$/programming/media/libraries/decoder_av1" />
+            <option value="$USER_HOME$/programming/media/libraries/decoder_ffmpeg" />
+            <option value="$USER_HOME$/programming/media/libraries/decoder_flac" />
+            <option value="$USER_HOME$/programming/media/libraries/decoder_iamf" />
+            <option value="$USER_HOME$/programming/media/libraries/decoder_mpegh" />
+            <option value="$USER_HOME$/programming/media/libraries/decoder_opus" />
+            <option value="$USER_HOME$/programming/media/libraries/decoder_vp9" />
+            <option value="$USER_HOME$/programming/media/libraries/effect" />
+            <option value="$USER_HOME$/programming/media/libraries/exoplayer" />
+            <option value="$USER_HOME$/programming/media/libraries/exoplayer_dash" />
+            <option value="$USER_HOME$/programming/media/libraries/exoplayer_hls" />
+            <option value="$USER_HOME$/programming/media/libraries/exoplayer_ima" />
+            <option value="$USER_HOME$/programming/media/libraries/exoplayer_rtsp" />
+            <option value="$USER_HOME$/programming/media/libraries/exoplayer_smoothstreaming" />
+            <option value="$USER_HOME$/programming/media/libraries/exoplayer_workmanager" />
+            <option value="$USER_HOME$/programming/media/libraries/extractor" />
+            <option value="$USER_HOME$/programming/media/libraries/muxer" />
+            <option value="$USER_HOME$/programming/media/libraries/session" />
+            <option value="$USER_HOME$/programming/media/libraries/test_data" />
+            <option value="$USER_HOME$/programming/media/libraries/test_utils" />
+            <option value="$USER_HOME$/programming/media/libraries/test_utils_robolectric" />
+            <option value="$USER_HOME$/programming/media/libraries/transformer" />
+            <option value="$USER_HOME$/programming/media/libraries/ui" />
+            <option value="$USER_HOME$/programming/media/libraries/ui_compose" />
+            <option value="$USER_HOME$/programming/media/libraries/ui_leanback" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
