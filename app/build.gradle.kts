@@ -56,7 +56,6 @@ dependencies {
     implementation(libs.androidx.media3.exoplayer)
     implementation(libs.androidx.appcompat)
     implementation(project(":media3-lib-decoder-opus"))
-    implementation(project(":media3-lib-decoder-vp9"))
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
