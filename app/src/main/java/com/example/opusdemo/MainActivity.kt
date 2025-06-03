@@ -40,7 +40,7 @@ class MainActivity : ComponentActivity() {
 
         // Build the MediaItem
         val videoUrl =
-            "android.resource://${packageName}/raw/rickroll_audio"
+            "android.resource://${packageName}/raw/rickroll_audio_10"
         val uri = Uri.parse(videoUrl)
         val mediaItem = MediaItem.fromUri(uri)
 
